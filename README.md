@@ -1,1 +1,1 @@
-# Mini_projects
+# Data Science Practicals
